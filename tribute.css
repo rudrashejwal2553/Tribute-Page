@@ -1,0 +1,28 @@
+body{
+    padding: 50px;
+    font-family: Times New Roman;
+    font-size:  20px;
+    
+  }
+  .container{
+    background-color:rgb(183, 228, 165);
+    padding: 10px;
+    border :  5px solid rgb(46, 31, 147);
+  }
+  #head1{
+    padding-top:50px;
+  }
+  .text-edit{
+    font-family:Verdena;
+    font-size:20px;
+  }
+  .img-edit{
+    size: 10px; 
+    align: center;
+  }
+  
+  
+  
+  
+  
+  
